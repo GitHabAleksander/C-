@@ -1,0 +1,15 @@
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\bin\Debug\net7.0\Task_05_(seminar2).exe
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\bin\Debug\net7.0\Task_05_(seminar2).deps.json
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\bin\Debug\net7.0\Task_05_(seminar2).runtimeconfig.json
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\bin\Debug\net7.0\Task_05_(seminar2).dll
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\bin\Debug\net7.0\Task_05_(seminar2).pdb
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\obj\Debug\net7.0\Task_05_(seminar2).csproj.AssemblyReference.cache
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\obj\Debug\net7.0\Task_05_(seminar2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\obj\Debug\net7.0\Task_05_(seminar2).AssemblyInfoInputs.cache
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\obj\Debug\net7.0\Task_05_(seminar2).AssemblyInfo.cs
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\obj\Debug\net7.0\Task_05_(seminar2).csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\obj\Debug\net7.0\Task_05_(seminar2).dll
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\obj\Debug\net7.0\refint\Task_05_(seminar2).dll
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\obj\Debug\net7.0\Task_05_(seminar2).pdb
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\obj\Debug\net7.0\Task_05_(seminar2).genruntimeconfig.cache
+C:\Users\user\Documents\dotnet\Tasks\Task_05_(seminar2)\obj\Debug\net7.0\ref\Task_05_(seminar2).dll
