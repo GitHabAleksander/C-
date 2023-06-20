@@ -17,7 +17,7 @@ if((numberA / 10000 > 0) && (numberA / 100000 == 0))
     {
         Console.WriteLine("Число является палиандром");
     }
-    else if((num1 != num5) && (num2 != num4))
+    else if((num1 != num5) | (num2 != num4))
     {
         Console.WriteLine("Число не является палиандром");
     }
