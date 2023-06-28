@@ -12,10 +12,10 @@ int ReadInt()
 
 int Counter(int N)
 {
-    int NN = 0;
+    int NN = 1;
     for(int i = 1; i <= N; i++)
     {
-        NN* = i;
+        NN*= i;
     }
     return NN;
 }
