@@ -8,9 +8,14 @@ int M = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите N:");
 int N = Convert.ToInt32(Console.ReadLine());
 
+// int M = 1;
+// int N = 15;
+
+
 int SummMN(int FirstNumber, int LastNumber)
 {
-    if(LastNumber <= FirstNumber - 1) return 0;
-    return SummMN(FirstNumber + LastNumber - 1);
+    if(LastNumber <= FirstNumber) return FirstNumber;
+    return FirstNumber + SummMN(FirstNumber + 1, LastNumber);
 }
-Console.WriteLine(SummMN(M + N));
+int Sum = SummMN(M, N);
+Console.WriteLine(Sum);
